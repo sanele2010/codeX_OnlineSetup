@@ -22,7 +22,8 @@ Outcomes are all computer literacy!
 	* You have a Google Account
 	* You have a Github Account
 		* You have cloned this Github repository
-		* You have added a file called sociamediaprofile.txt to your cloned repo containing the details of all your accounts
+		* You have added a file called sociamediaprofile.txt to your cloned repo 
+		  containing the details of all your accounts
 	* You have a StackOverflow Account
 	* You have a Twitter Account
 	* You're connected to an instant messaging service
