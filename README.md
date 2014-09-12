@@ -28,3 +28,8 @@ Outcomes are all computer literacy!
 	* You have a Twitter Account
 	* You're connected to an instant messaging service
 	* You have a Instagram Account
+
+#### Complete the assessment
+When you've set up all the accounts, complete the self assessment form.
+
+   * [Getting Started - Self Assessment](https://docs.google.com/a/codex-academy.com/forms/d/1XE6M72q1qV6Kaxk9qdB7KuaeZJQs8_vIe17GPogS-Nk/viewform)
