@@ -23,7 +23,7 @@ Outcomes are all computer literacy!
 #### Acceptance Criteria for this project:
 	* You have a Google Account
 	* You have a Github Account
-		* You have cloned this Github repository
+		* You have forked this Github repository into your own github account
 		* You have added a file called sociamediaprofile.txt to your cloned repo 
 		  containing the details of all your accounts
 	* You have a StackOverflow Account
