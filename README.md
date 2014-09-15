@@ -9,6 +9,7 @@ Get accounts on the following services:
 	* Github
 	* Stack Overflow
 	* Google
+	* Dropbox
 
 Use Google credentials to set up Github and Stack Overflow.  
 
@@ -30,6 +31,9 @@ Outcomes are all computer literacy!
 	* You have a Twitter Account
 	* You're connected to an instant messaging service
 	* You have a Instagram Account
+	* You have a Dropbox Account
+		* Dropbox is configured on your laptop
+		* You have a folder that is syncing with Dropbox
 
 #### Complete the assessment
 When you've set up all the accounts, complete the self assessment form.
